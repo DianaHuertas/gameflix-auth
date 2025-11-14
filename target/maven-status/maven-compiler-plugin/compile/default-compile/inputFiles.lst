@@ -1,0 +1,8 @@
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\config\SecurityBeans.java
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\controller\AuthController.java
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\dto\ApiMessage.java
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\dto\AuthRequest.java
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\GameflixAuthApplication.java
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\model\User.java
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\repo\UserRepository.java
+C:\Users\nik_n\OneDrive\Documentos\gameflix-auth\src\main\java\com\gameflix\auth\service\UserService.java
