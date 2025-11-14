@@ -59,3 +59,12 @@ Uses H2 database (data resets every time you restart).
 Works with Postman on port 8085.
 
 I tested registration and login successfully inside Docker.
+
+## CI/CD (GitHub Actions)
+
+This project uses a GitHub Actions workflow called "Spring Boot CI".  
+Every time I push to the `main` branch, it automatically:
+- checks out the code
+- sets up Java 17
+- runs `mvn -DskipTests package` to build the project
+- builds the Docker image `gameflix-backend`
