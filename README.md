@@ -1,4 +1,4 @@
-GameFlix Auth Service
+## GameFlix Auth Service
 
 This project is a simple backend for GameFlix that lets users register and log in. It was built with Spring Boot and containerized using Docker.
 
